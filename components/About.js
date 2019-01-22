@@ -9,6 +9,7 @@ let About = React.createClass({
                     title="About"
                     meta={[
                         {property: 'og:title', content: 'About'},
+                        {property: 'og:image', content: 'http://res.cloudinary.com/drdxjay2t/image/upload/v1546683561/pdf-cover.jpg'}
                     ]} />
                 <h1>About</h1>
             </div>
